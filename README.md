@@ -5,6 +5,9 @@
 
 ## Chromogram - beta update
 [![github](https://img.shields.io/badge/GET%20IT%20ON%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Satviky/Chromogram/releases)
+
+#### Available only on: ![android](https://img.shields.io/badge/Android-0022dd?style=for-the-badge&logo=android&logoColor=white)
+
 >[!tip]
 >Go throught the installation guide attached with the release to install the app correctly.
 
