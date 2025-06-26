@@ -9,6 +9,10 @@
 This is spin off to the classic Cryptogram app.[^1]
 
 
+>[!important]
+>Spin-off doesn't mean exact same copy of the previously built game or completely different game, it is improvised version of the game you see/know.
+
+
 ---
 ## Technology used
 ### Backend Hosting
