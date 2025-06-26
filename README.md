@@ -11,7 +11,7 @@
 ---
 
 This is spin off to the classic Cryptogram game.[^1]
-## 🎯 What's New & What to Test in This Build:
+## 🎯 What's New
 * **[Feature 1]:** Introduced a new save system that correctly tracks progress per unique player (instead of always defaulting to player ID)
 * **[Bug Fix 1]:** "First few apks crashed before opening, that have been fixed."
 * **General Stability:** Play through the game normally and report any unexpected behavior or crashes.
@@ -36,14 +36,15 @@ This is spin off to the classic Cryptogram game.[^1]
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## ⚠️ Beta Disclaimer
 
-## ⚠️ Important Notes
+This app is a **beta release** provided for testing and feedback only. It's not ready for public distribution yet. By using this APK, you agree:
 
-* This is a **beta version** of Chromogram, provided exclusively for testing purposes. It is not intended for public release, resale, or reverse engineering.
-* By downloading and installing this APK, you agree to use it solely for testing and providing feedback. Any other use, reproduction, or distribution is prohibited.
-* All rights regarding this application and its content are reserved by Shadowveil StudioZ.
-* Please understand that this beta app may contain bugs, incomplete features, and is subject to significant changes or removal at any time without notice.
-* Thank you for helping us make Chromogram awesome!
+- Not to modify, re-upload, or redistribute this app.
+- To use it only for testing and reporting bugs or feedback.
+- That bugs or incomplete features are expected and may be fixed or changed without warning.
 
+> 💬 Feedback makes this better! Report bugs via the [Issues tab](https://github.com/Satviky/Chromogram/issues) or [Email us](mailto:it10800222125@gmail.com).
 
+---
 [^1]: A cryptogram is a type of puzzle that consists of a short piece of encrypted text. [learn more](https://en.wikipedia.org/wiki/Cryptogram)
