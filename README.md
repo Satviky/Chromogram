@@ -49,5 +49,5 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 
 > 💬 Feedback makes this better! Report bugs via the [Issues tab](https://github.com/Satviky/Chromogram/issues) or [Email us](mailto:it10800222125@gmail.com).
 
----
+
 [^1]: A cryptogram is a type of puzzle that consists of a short piece of encrypted text. [learn more](https://en.wikipedia.org/wiki/Cryptogram)
