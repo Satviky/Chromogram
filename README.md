@@ -5,7 +5,7 @@
 
 
 ![downloads](https://img.shields.io/badge/downloads-4-brightgreen?style=flat)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Satviky.Chromogram&left_color=gray&right_color=slateblue)
+
 ![Last Commit](https://img.shields.io/github/last-commit/Satviky/Chromogram?style=flat&color=blueviolet)
 
 
@@ -31,6 +31,9 @@ This is spin off to the classic Cryptogram game.[^1]
 >[!important]
 >Spin-off doesn't mean copy of the previously built game, it means improvised version of the game/app you are already familiar with.
 
+---
+## 💡 Inspiration
+Chromogram is inspired by cryptogram puzzles — but with a twist. I wanted to create a colour-centric version where every tap feels intuitive and rewarding, even to people who don’t play traditional word games.
 
 ---
 ## Technology used
