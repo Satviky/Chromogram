@@ -5,7 +5,7 @@
 
 
 ![downloads](https://img.shields.io/badge/downloads-4-brightgreen?style=flat)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Satviky.Chromogram&left_color=gray&right_color=slateblue)
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Satviky.Chromogram&left_color=gray&right_color=slateblue)-->
 ![Last Commit](https://img.shields.io/github/last-commit/Satviky/Chromogram?style=flat&color=blueviolet)
 
 
@@ -82,6 +82,16 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 ## 📬 Contact
 [![Email us](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:it10800222125@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/shadowveil_studioz)
+<!--[![Discussions](https://img.shields.io/badge/Feedback-GitHub_Discussions-6e44ff?style=plastic&logo=github)](https://github.com/Satviky/Chromogram/discussions)-->
+
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Shadowveil StudioZ</strong><br/>
+  <em>From solo dev tears to colour-coded dreams.</em>
+</p>
+
 
 
 [^1]: A cryptogram is a type of puzzle that consists of a short piece of encrypted text. [learn more](https://en.wikipedia.org/wiki/Cryptogram)
