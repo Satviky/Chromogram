@@ -5,7 +5,7 @@
 
 
 ![downloads](https://img.shields.io/badge/downloads-4-brightgreen?style=flat)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Satviky.Chromogram&left_color=gray&right_color=slateblue)
 ![Last Commit](https://img.shields.io/github/last-commit/Satviky/Chromogram?style=flat&color=blueviolet)
 
 
