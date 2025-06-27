@@ -19,22 +19,32 @@
 >Go throught the installation guide attached with the release to install the app correctly.
 
 ---
-
+## About Game
 This is spin off to the classic Cryptogram game.[^1]
 ## 🎯 What's New
 * **[Feature 1]:** Introduced a new save system that correctly tracks progress per unique player (instead of always defaulting to player ID)
-* **[Bug Fix 1]:** "First few apks crashed before opening, that have been fixed."
+* **[Bug Fix 1]:** First few apks crashed before opening, that have been fixed.
 * **General Stability:** Play through the game normally and report any unexpected behavior or crashes.
-
 
 >[!important]
 >Spin-off doesn't mean copy of the previously built game, it means improvised version of the game/app you are already familiar with.
 
 ---
+
+## 🔮 Planned Features
+- [ ] Sound effects and background music
+- [ ] Leaderboard and login system
+- [ ] Achievements and collectibles
+- [ ] Daily puzzles & challenge mode
+- [x] At least 5 packs
+
+---
+
 ## 💡 Inspiration
 Chromogram is inspired by cryptogram puzzles — but with a twist. I wanted to create a colour-centric version where every tap feels intuitive and rewarding, even to people who don’t play traditional word games.
 
 ---
+
 ## Technology used
 ### Backend Hosting
 ![railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
@@ -57,7 +67,20 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 - To use it only for testing and reporting bugs or feedback.
 - That bugs or incomplete features are expected and may be fixed or changed without warning.
 
-> 💬 Feedback makes this better! Report bugs via the [Issues tab](https://github.com/Satviky/Chromogram/issues) or [Email us](mailto:it10800222125@gmail.com).
+> 💬 Feedback makes this better! Report bugs via the [Issues tab](https://github.com/Satviky/Chromogram/issues) or [email us](mailto:it10800222125@gmail.com).
+
+---
+
+## 🥚 Did You Know?
+- The quote “Don’t optimize for short time” is a playable level.
+- The Death Note pack has quotes from all key characters, not just Light and L.
+- Skittles' tagline made someone quit the game during testing.
+
+---
+
+## 📬 Contact
+[![Email us](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:it10800222125@gmail.com)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=fplastic&logo=telegram&logoColor=white)](https://t.me/shadowveil_studioz)
 
 
 [^1]: A cryptogram is a type of puzzle that consists of a short piece of encrypted text. [learn more](https://en.wikipedia.org/wiki/Cryptogram)
