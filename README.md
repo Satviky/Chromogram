@@ -1,10 +1,18 @@
 # Chromogram
 
-![release](https://img.shields.io/badge/release-v1.0.0--beta-orange?style=for-the-badge)
-![downloads](https://img.shields.io/badge/downloads-4-brightgreen?style=for-the-badge)
+![release](https://img.shields.io/badge/release-v1.0.0--beta-orange?style=flat-square)
+![Status](https://img.shields.io/badge/status-Alpha-orange?style=flat-square)
+
+
+![downloads](https://img.shields.io/badge/downloads-4-brightgreen?style=flat)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Satviky.Chromogram&left_color=gray&right_color=slateblue)
+![Last Commit](https://img.shields.io/github/last-commit/Satviky/Chromogram?style=flat&color=blueviolet)
+
+
 
 ## Chromogram - beta update
 [![github](https://img.shields.io/badge/GET%20IT%20ON%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Satviky/Chromogram/releases)
+
 
 #### Available only on: ![android](https://img.shields.io/badge/Android-0022dd?style=for-the-badge&logo=android&logoColor=white)
 
