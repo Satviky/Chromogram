@@ -82,6 +82,7 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 ## 📬 Contact
 [![Email us](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:it10800222125@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/shadowveil_studioz)
+
 <!--[![Discussions](https://img.shields.io/badge/Feedback-GitHub_Discussions-6e44ff?style=plastic&logo=github)](https://github.com/Satviky/Chromogram/discussions)-->
 
 
