@@ -10,6 +10,7 @@
 
 
 
+
 ## Chromogram - beta update
 [![github](https://img.shields.io/badge/GET%20IT%20ON%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Satviky/Chromogram/releases)
 
@@ -83,7 +84,7 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 [![Email us](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:it10800222125@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/shadowveil_studioz)
 
-<!--[![Discussions](https://img.shields.io/badge/Feedback-GitHub_Discussions-6e44ff?style=plastic&logo=github)](https://github.com/Satviky/Chromogram/discussions)-->
+[![Discussions](https://img.shields.io/badge/Feedback-GitHub_Discussions-6e44ff?style=plastic&logo=github)](https://github.com/Satviky/Chromogram/discussions)
 
 
 ---
@@ -92,6 +93,9 @@ This app is a **beta release** provided for testing and feedback only. It's not 
   Made with ❤️ by <strong>Shadowveil StudioZ</strong><br/>
   <em>From solo dev tears to colour-coded dreams.</em>
 </p>
+
+### Downloads from Github:
+[![Downloads](https://img.shields.io/github/downloads/Satviky/Chromogram/total)](https://github.com/Satviky/Chromogram/releases)
 
 
 
