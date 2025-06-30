@@ -1,7 +1,7 @@
 # Chromogram
 
 ![release](https://img.shields.io/badge/release-v1.0.0--beta-orange?style=flat-square)
-![Status](https://img.shields.io/badge/status-Alpha-orange?style=flat-square)
+![Status](https://img.shields.io/badge/status-Beta-orange?style=flat-square)
 
 
 ![downloads](https://img.shields.io/badge/downloads-5-brightgreen?style=flat)
