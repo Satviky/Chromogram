@@ -17,4 +17,5 @@ It have a big significance. I had half build app, it is okay. Now, I talked to f
 > Now, `shipped is stronger than perfect` means that, An App in prodcution[with all the bugs and glitches included] is more powerful and strong than a idea which have neve been launched in the market.
 ---
 - these aren't just dev rules, but also survival tools
+
 ~ Satviky
