@@ -78,6 +78,7 @@ This app is a **beta release** provided for testing and feedback only. It's not 
 - The quote “Don’t optimize for short time” is a playable level.
 - The Death Note pack has quotes from all key characters, not just Light and L.
 - Skittles' tagline made someone quit the game during testing.
+- This project thought me a lot of DBMS.
 
 ---
 
