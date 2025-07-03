@@ -15,6 +15,9 @@ It have a big significance. I had half build app, it is okay. Now, I talked to f
 > Here, `Done is beautiful` means that, whatever you have done till now in your app, it's beautiful. Even if you wanted something else, but at least you came this far.
 
 > Now, `shipped is stronger than perfect` means that, An App in prodcution[with all the bugs and glitches included] is more powerful and strong than a idea which have neve been launched in the market.
+
+## 4. Success for developers is an illusion. Because development never ends.
+It doesn't have a good back story but it's just a realisation i hit while development.
 ---
 - these aren't just dev rules, but also survival tools
 
