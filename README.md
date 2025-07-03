@@ -27,6 +27,7 @@ This is spin off to the classic Cryptogram game.[^1]
 ## 🎯 What's New
 * **[Feature 1]:** Introduced a new save system that correctly tracks progress per unique player (instead of always defaulting to player ID)
 * **[Bug Fix 1]:** First few apks crashed before opening, that have been fixed.
+* **[Bug Fix 2]:** It's no longer giving you Player ID : 1's Account.
 * **General Stability:** Play through the game normally and report any unexpected behavior or crashes.
 
 >[!important]
